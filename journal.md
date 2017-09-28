@@ -35,4 +35,5 @@ as the number of bits and the creation date and time of each file and folder.
 
 6. Version tracking 
 So far i've learnt that git uses repositories to store data. These repositories allow tracking of the  
-various versions of added data through the use of commit messages
+various versions of added data through the use of commit messages. Repositories can be stored locally  
+or online.
